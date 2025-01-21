@@ -4,5 +4,10 @@
 </div>
 Hi there 👋
 
-### About me:
-Theses repositary contains my project regarding programming such as python, java, bash and powershell which are essential for cyber security professional's.
+### About me
+I'm Anup, a System Administrator, Programmer, and Student. I have a long history with being invloved with computer and hardware systems. As from my school I had been introduced to QBasic and C++, the help documents I started exploring those tools and my journey started from there as self-learner.
+
+Started as Bug Bounty Hunter, learning through web application pentesting found out there're different operating system, server,framework and so on working behind the sence to provide secure environment for user. I started exploring and learning the platform's and troubleshooting them make me passionate.
+
+*
+
