@@ -1,4 +1,4 @@
-# Co-op
+## Co-op
 <div id="header" align="center">
   <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="250"/>
 </div>
