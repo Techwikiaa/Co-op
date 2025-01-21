@@ -1,6 +1,6 @@
 # Co-op
 <div id="header" align="center">
-  <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="200"/>
+  <img src="https://media2.giphy.com/media/3kPDmoWdBpQPNhCnUG/giphy.gif" width="300"/>
 </div>
 Hi there 👋
 Theses repositary contains my project regarding programming such as python, java, bash and powershell which are essential for cyber security professional's.
