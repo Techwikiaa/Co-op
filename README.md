@@ -15,7 +15,7 @@ Few year later, started as Bug Bounty Hunter, learning through web application p
 
   -------
   -------
-  *You can reach me at:* [Replit](https://replit.com/@AnupAdhikari6)
+  *You can reach me at:* [Replit](https://replit.com/@AnupAdhikari6) || [LinkedIn](https://www.linkedin.com/in/techwikiaa/)
   
   
   
