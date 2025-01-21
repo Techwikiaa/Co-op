@@ -12,5 +12,7 @@ Few year later, started as Bug Bounty Hunter, learning through web application p
 * Solo-learner loves researching documents, books and articles to deepen my understanding.
 * I completed the certification for Web Application and documented the findings for review.
 * Actively involved in PortSwigger Academy, TryHackme and PentesterLab
+
+  -------
   
 
